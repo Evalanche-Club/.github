@@ -1,4 +1,4 @@
-![logo](logo.png)
+![logo](../logo.png)
 
 # The EvalanChE Club 
 
@@ -8,4 +8,4 @@ EvalanChE Club is the official Electronics and Communication Engineering (ECE) c
 
 Check out our website 
 
-[![website](badge.svg)](https://evalanche-club.github.io/)
+[![website](../badge.svg)](https://evalanche-club.github.io/)
