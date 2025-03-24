@@ -1,12 +1,11 @@
-## Hi there 👋
+![logo](logo.png)
 
-<!--
+# The EvalanChE Club 
 
-**Here are some ideas to get you started:**
+Empowering Innovators in Electronics & Communication
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+EvalanChE Club is the official Electronics and Communication Engineering (ECE) club at Jain (Deemed-to-be University), dedicated to fostering innovation, hands-on learning, and collaboration in the field of embedded systems, VLSI, IoT, robotics, and beyond.
+
+Check out our website 
+
+[![website](badge.svg)](https://evalanche-club.github.io/)
