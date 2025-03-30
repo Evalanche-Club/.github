@@ -31,4 +31,4 @@ Check out our website
 ## Website Creators and Maintainers
 
 1. Vaishnav Sabari Girish 
-2. Razikur Rehman
+2. S Razikur Rahman
