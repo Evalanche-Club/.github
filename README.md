@@ -8,7 +8,7 @@ EvalanChE Club is the official Electronics and Communication Engineering (ECE) c
 
 Check out our website 
 
-[![website](badge.svg)](https://evalanche-club.github.io/)
+[![website](badge.svg)](https://evalancheclub.in/)
 
 ---  
 
